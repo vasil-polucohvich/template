@@ -1,3 +1,3 @@
 <script>
-  $('div').html('ghhhj');
+  $('div').html('div');
 </script>
